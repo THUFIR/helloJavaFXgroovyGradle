@@ -5,7 +5,7 @@ package helloJavaFXgroovyGradle;
 
 public class App {
     public String getGreeting() {
-        return "Hello world.";
+        return "Hello mother fuckers.";
     }
 
     public static void main(String[] args) {
